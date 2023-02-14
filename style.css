@@ -1,0 +1,29 @@
+form{
+    background-color:rgb(126, 144, 161);
+    height:100%;
+    width:100%;
+    border-radius:10px;
+    display:grid;
+}
+.num{
+    height:50px;
+    margin:0px 5px 1px 3px;
+    border-radius:8px;
+    font-size:25px;
+    
+}
+label{
+    font-size:25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight:bold;
+}
+
+.btn{
+    height:50px;
+    margin:1px 5px 1px 3px;
+    border-radius:8px;
+    font-size:25px;
+    background-color: rgb(207, 207, 207);
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
